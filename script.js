@@ -361,7 +361,7 @@ document.addEventListener('DOMContentLoaded', () => {
             content: `
                 <div>
                     <h3 class="modal-section-title"><i class="fa-solid fa-file-invoice"></i> Executive Summary</h3>
-                    <p>Developed Astream, a responsive, web-based media streaming application inspired by VLC Media Player. Designed to allow users to upload, catalog, search, and stream audio and video content directly in the browser. Hosted live at <a href="https://resume13.vercel.app/" target="_blank" style="color: var(--accent-cyan); text-decoration: underline;">https://resume13.vercel.app/</a>.</p>
+                    <p>Developed Astream, a responsive, web-based media streaming application inspired by VLC Media Player. Designed to allow users to upload, catalog, search, and stream audio and video content directly in the browser. Hosted live at <a href="https://astream13.onrender.com" target="_blank" style="color: var(--accent-cyan); text-decoration: underline;">https://astream13.onrender.com</a>.</p>
                 </div>
                 <div>
                     <h3 class="modal-section-title"><i class="fa-solid fa-gears"></i> Backend & Database Architecture</h3>
